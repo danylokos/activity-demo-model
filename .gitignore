@@ -158,3 +158,8 @@ dmypy.json
 # End of https://www.gitignore.io/api/macos,python
 
 kg-data/
+
+.vscode/
+
+*.h5
+*.mlmodel
